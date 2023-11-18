@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "name": "EosHelper",
+  "version": "0.1.0",
+  "main": "app.js",
+  "repository": "git@github.com:davethw/eos-helper.git",
+  "author": "Dave Thwaites <dave@thwaites.org.uk>",
+  "license": "MIT"
+}
